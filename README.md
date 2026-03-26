@@ -4,17 +4,17 @@ Aplicativo desenvolvido para registro e acompanhamento da rotina diária de cria
 
 ## Funcionalidades
 
-- Registro de entrada e saída  
-- Controle de alimentação  
-- Registro de sono  
-- Acompanhamento de atividades  
-- Comunicação com responsáveis  
+- Registro de entrada e saída
+- Controle de alimentação
+- Registro de sono
+- Acompanhamento de atividades
+- Comunicação com responsáveis
 
 ## Tecnologias utilizadas
 
-- Flutter  
-- Dart  
-- Firebase (em implementação)  
+- Flutter 
+- Dart 
+- Firebase (em implementação) 
 
 ## Objetivo
 
